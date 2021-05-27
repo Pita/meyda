@@ -328,5 +328,3 @@ var prepareSignalWithSpectrum = function (
  * @type {Meyda}
  */
 export default Meyda;
-
-if (typeof window !== "undefined") window.Meyda = Meyda;
